@@ -1,0 +1,25 @@
+body{
+
+}
+#logo{
+  position: relative;
+  top:450px;
+  left:500px;
+
+}
+#textbox{
+  position:relative;
+  top: 500px;
+  left:500px;
+}
+#navbar{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: inline;
+}
+li{
+  float:right;
+  padding: 14px 14px;
+
+}
