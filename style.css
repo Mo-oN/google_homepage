@@ -1,25 +1,13 @@
-body{
-
+nav{
+  float: right;
+  margin: 0px 20px 0px 0px;
+  padding-right:14px;
 }
-#logo{
-  position: relative;
-  top:450px;
-  left:500px;
-
-}
-#textbox{
-  position:relative;
-  top: 500px;
-  left:500px;
-}
-#navbar{
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  display: inline;
-}
-li{
-  float:right;
-  padding: 14px 14px;
+nav a{
+  text-decoration: none;
+  font-family: Arial;
+  color: black;
+  font-size: 14px;
+  margin-right:14px;
 
 }
